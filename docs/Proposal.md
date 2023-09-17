@@ -8,11 +8,17 @@ Review this requirements document The Template and Guidelines for the Project Pr
 1. Title and Author
 
 Project Title
+
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+
 Author Name
+
 Link to the author's GitHub profile
+
 Link to the author's LinkedIn progile
+
 Link to your PowerPoint presentation file
+
 Link to your YouTube video
 
 2. Background
@@ -20,7 +26,9 @@ Link to your YouTube video
 Provide the background information about the chosen topic.
 
 What is it about?
+
 Why does it matter?
+
 What are your research questions?
 
 
