@@ -7,15 +7,15 @@ Review this requirements document The Template and Guidelines for the Project Pr
 
 1. Title and Author
 
-Project Title
+Project Title: **US Employment, Inflation and GDP Exploration and Economic Forecasting**
 
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
-Author Name
+Author Name **Jonathan Rius**
 
-Link to the author's GitHub profile
+Link to the author's GitHub profile **https://github.com/jonnie763**
 
-Link to the author's LinkedIn progile
+Link to the author's LinkedIn profile **https://www.linkedin.com/in/jonathan-rius-17612b207/**
 
 Link to your PowerPoint presentation file
 
