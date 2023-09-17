@@ -25,19 +25,19 @@ Link to your YouTube video **N/A**
 
 Provide the background information about the chosen topic. 
 
-The following is a study of macroeconmic data and using machine learning for economic forecasting. Hypothesis testing and correlations will be used for further exploration. Basically the project aims to explore macro economic data and make use of machine learning for forecasting.  
+**The following is a study of macroeconmic data and using machine learning for economic forecasting. Hypothesis testing and correlations will be used for further exploration. Basically the project aims to explore macro economic data and make use of machine learning for forecasting.**
 
-What is it about? See the above comment. 
+What is it about? **See the above comment.**
 
-Why does it matter? Forecasting and comparisons could be useful in making policy changes. 
+Why does it matter? **Forecasting and comparisons could be useful in making policy changes.** 
 
 What are your research questions?
 
-What will inflation, GDP and unemployment rate look in the future?
+**What will inflation, GDP and unemployment rate look in the future?**
 
-How can we use hypothesis testing to compare macroeconomic data against other countries? 
+**How can we use hypothesis testing to compare macroeconomic data against other countries?**
 
-What are some correlations between data sets?
+**What are some correlations between data sets?**
 
 
 3. Data
