@@ -17,9 +17,9 @@ Link to the author's GitHub profile **https://github.com/jonnie763**
 
 Link to the author's LinkedIn profile **https://www.linkedin.com/in/jonathan-rius-17612b207/**
 
-Link to your PowerPoint presentation file
+Link to your PowerPoint presentation file **N/A**
 
-Link to your YouTube video
+Link to your YouTube video **N/A**
 
 2. Background
 
