@@ -25,3 +25,19 @@ https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/1e64cb5e-30a0-479f-a3d3-f604df27de06)
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/95ad45db-fa68-4285-9947-c33539157755)
+
+
+Title and Author
+Project Title: US Employment, Inflation and GDP Exploration and Economic Forecasting
+
+Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+
+Author Name Jonathan Rius
+
+Link to the author's GitHub profile https://github.com/jonnie763
+
+Link to the author's LinkedIn profile https://www.linkedin.com/in/jonathan-rius-17612b207/
+
+Link to your PowerPoint presentation file N/A
+
+Link to your YouTube video N/A
