@@ -37,3 +37,21 @@ Link to the author's LinkedIn profile https://www.linkedin.com/in/jonathan-rius-
 Link to your PowerPoint presentation file N/A
 
 Link to your YouTube video N/A
+
+
+## **Background**
+
+
+
+## **Description of Data Sources**
+
+
+## **Data Elements**
+
+
+## **Results of EDA**
+
+
+## **Results of ML**
+
+## **Conclusion and further research**
