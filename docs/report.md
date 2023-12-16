@@ -43,10 +43,9 @@ Link to your YouTube video N/A
 
 
 
-## **Description of Data Sources**
+## **Description of Data Sources and Data Elements**
 
 
-## **Data Elements**
 
 
 ## **Results of EDA**
