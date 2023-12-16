@@ -28,7 +28,9 @@ Project Title: US Employment, Inflation and GDP Exploration and Economic Forecas
 
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
-Author Name Jonathan Rius
+Author Name: Jonathan Rius
+
+Fall 2023 Semester
 
 Link to the author's GitHub profile https://github.com/jonnie763
 
