@@ -109,7 +109,7 @@ ARIMA stands for autoregressive integrated moving average model and is specified
 
 Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. 
 
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/e097af5e-fb30-4427-9322-dd26223a31bc)
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/10a83c1b-3e16-476c-ae23-eef3c28f46af)
 
 The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into account those recessions, the forecast of the percent
 
