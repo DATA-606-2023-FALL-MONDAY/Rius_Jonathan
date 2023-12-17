@@ -114,7 +114,8 @@ ARIMA stands for autoregressive integrated moving average model and is specified
 Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. 
 
 ---
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/10a83c1b-3e16-476c-ae23-eef3c28f46af)
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/7764815c-b359-4a1d-bd17-254a8ecff645)
+
 
 The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into 
 
@@ -128,7 +129,9 @@ This model shows an increase of the interest rate over many years and this just 
 
 ---
 
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/6ea2202b-9e65-4760-b51b-fa7cb1d2b644)
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/df561ccb-3295-4d42-82d2-860c44e6bbcc)
+
+
 
 This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
 
