@@ -84,7 +84,8 @@ was used to combat inflation, in others, a low interest rate was used to surge t
 
 ---
 
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5f4a0689-ae17-4102-b99c-262c40c69f2a)
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/a2e36a68-2dd1-4909-b307-213603e8e531)
+
 
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
 which had values more concentrated between 5 and 10. Interest rates are more variable because they can be easily manipulated in order 
