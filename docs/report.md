@@ -85,7 +85,9 @@ were most affected by recessions. Sometimes the interest rate was effected, and 
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
 which had values more concentrated between 5 and 10. 
 
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/ef690c34-9fba-4f76-b576-664e140d38c2) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/74aedc0f-a43e-4170-af5d-b043cfe6ce80)
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/8f7805e1-ad8b-4dbf-92c4-d46d84bb26b3) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/af55bdc0-5faa-4540-85f3-655df2c645c3)
+
+
 
 
 
