@@ -36,7 +36,7 @@ Link to the author's GitHub profile https://github.com/jonnie763
 
 Link to the author's LinkedIn profile https://www.linkedin.com/in/jonathan-rius-17612b207/
 
-Link to your PowerPoint presentation file N/A
+Link to your PowerPoint presentation file https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/blob/main/docs/Jonathan%20Rius_Final%20Presentation%20.pptx
 
 Link to your YouTube video https://youtu.be/Oo_g2CpV0NM?si=nnLJqtQNIyDoQ7ek
 
