@@ -116,9 +116,9 @@ Because there is a correlation between interest rate and inflation( the Fed will
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/10a83c1b-3e16-476c-ae23-eef3c28f46af)
 
-The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into account those recessions, the forecast of the percent
+The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into 
 
-change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
+account those recessions, the forecast of the percent change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
