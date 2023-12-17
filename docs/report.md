@@ -71,35 +71,32 @@ The follwing data goes back to 1954 and ends in the year 2023.
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/b9bbe4db-99cf-44fa-9445-86973f2056d8)
 
+The data source was combined through pandas dataframe function. The data types had objects that needed to converted to 
+float and the date needed to be converrted to datatime in order data exploation to begin. 
 
 ## **Results of EDA**
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/3628edbb-54e9-4010-924b-98cc88b6adfe)
 
 A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and unemployment  
-were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable.
+were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable. In some recessions a high interest rate 
+was used to combat inflation, in others, a low interest rate was used to surge the economy. Deflation occured in two recessions but not the other. 
 
 ---
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5f4a0689-ae17-4102-b99c-262c40c69f2a)
 
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
-which had values more concentrated between 5 and 10. 
+which had values more concentrated between 5 and 10. Interest rates are more variable because they can be easily manipulated in order 
+to aid the ecoonmy or to control inflation. GDP and unemployment have outliners that typically occur during recessions. 
 
----
-
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/11a26a6d-c86c-4cd4-bad1-345703481c69)
- ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/af55bdc0-5faa-4540-85f3-655df2c645c3)
-
-
-
- ---
-
+--- 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/f8827dca-949e-4d51-a344-6c84a4a1904a)
 
 Not a lot of notable correlations. Since inflation rate and interest rate has the highest correlation regression analysis will be run. In reality, 
 the fed will increase interest rates when inflation is too high or low so this makes sense. GDP and inflation correlation also occurs in nature, 
-but this shows a relatively moderate one. 
+but this shows a relatively moderate one. Many of economic theory suggests these correlation should be higher but the only significant one is 
+interest rate and inflation. Surprising. 
 
 ---
 
