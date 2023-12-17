@@ -65,14 +65,14 @@ The data uses several files to which they are combined.
 **Data Size and Records**
 
 The combined size of the files is 30 kb. The combined dataframe has 277 rows combined. 
-The follwing data goes back to 1954 and ends in the year 2023. 
+The following data goes back to 1954 and ends in the year 2023. 
 
 **Data Structure**
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/b9bbe4db-99cf-44fa-9445-86973f2056d8)
 
 The data source was combined through pandas dataframe function. The data types had objects that needed to converted to 
-float and the date needed to be converted to datatime in order data exploation to begin. 
+float and the date needed to be converted to datatime in order for data exploation to begin. 
 
 ## **Results of EDA**
 
