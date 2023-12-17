@@ -86,10 +86,14 @@ were most affected by recessions. Sometimes the interest rate was effected, and 
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
 which had values more concentrated between 5 and 10. 
 
+---
+
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/11a26a6d-c86c-4cd4-bad1-345703481c69)
  ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/af55bdc0-5faa-4540-85f3-655df2c645c3)
 
 
+
+ ---
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/f8827dca-949e-4d51-a344-6c84a4a1904a)
 
@@ -97,6 +101,7 @@ Not a lot of notable correlations. Since inflation rate and interest rate has th
 the fed will increase interest rates when inflation is too high or low so this makes sense. GDP and inflation correlation also occurs in nature, 
 but this shows a relatively moderate one. 
 
+---
 
 ## **Results of ML**
 
@@ -110,17 +115,20 @@ ARIMA stands for autoregressive integrated moving average model and is specified
 
 Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. 
 
+---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/10a83c1b-3e16-476c-ae23-eef3c28f46af)
 
 The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into account those recessions, the forecast of the percent
 
 change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
 
+---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
 
 This means squared error is almost 8 and the model is somewhat unrealistic. In a nature setting the interest rate changes according the economic landscape to induce or slow down borrowing.
-
 This model shows an increase of the interest rate over many years and this just not economically feasible.
+
+---
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/6ea2202b-9e65-4760-b51b-fa7cb1d2b644)
 
@@ -128,12 +136,13 @@ This has a high means squared error of 24, the model is also highly questionable
 
 changes greatly to economic contacting and recession like events. 
 
+---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
 
 To put it briefly there was a correlation between the interest rate and inflation, a model was produced. The model has R2 of .47, so the model is adequate but not strong enough for
 
 the interest rate to predict the target variable of inflation.  
-
+---
 ## **Conclusion and Further research**
 
 Let’s split the conclusion into several categories. 
