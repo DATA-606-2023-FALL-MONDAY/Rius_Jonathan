@@ -89,8 +89,7 @@ The follwing data goes back to 1954 and ends in the year 2023.
 
 **Data Structure**
 
-![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/746b9f59-91fe-4b16-8c82-6fb94e9000f5)
-
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/b9bbe4db-99cf-44fa-9445-86973f2056d8)
 
 
 ## **Results of EDA**
