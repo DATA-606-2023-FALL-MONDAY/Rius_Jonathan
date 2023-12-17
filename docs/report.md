@@ -24,7 +24,7 @@ https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/
 
 ## **Title and Author**
 
-Project Title: US Employment, Inflation and GDP Exploration and Economic Forecasting
+Project Title: US Employment, Inflationm Interest Rate and GDP Exploration and Economic Forecasting
 
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
@@ -43,6 +43,11 @@ Link to your YouTube video https://youtu.be/Oo_g2CpV0NM?si=nnLJqtQNIyDoQ7ek
 
 ## **Background**
 
+**What are some macroeconomic metrics?**
+
+**Why do these indicators matter?**
+
+**Research Questions**
 
 
 ## **Description of Data Sources and Data Elements**
@@ -56,3 +61,5 @@ Link to your YouTube video https://youtu.be/Oo_g2CpV0NM?si=nnLJqtQNIyDoQ7ek
 ## **Results of ML**
 
 ## **Conclusion and Further research**
+
+## **References**
