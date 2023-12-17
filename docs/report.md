@@ -79,6 +79,8 @@ The follwing data goes back to 1954 and ends in the year 2023.
 A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and unemployment  
 were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable.
 
+---
+
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5f4a0689-ae17-4102-b99c-262c40c69f2a)
 
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
