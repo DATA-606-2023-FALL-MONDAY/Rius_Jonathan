@@ -62,15 +62,34 @@ range set by the Federal Open Market Committee (FOMC).
 
 What will inflation, GDP, unemployment rate and the federal interest look like in the future?
 
-Can indicators predict the other?
+Can indicators predict the other (like with regression analysis)?
 
 What are some correlations between economic indicators, and what are some trends that occur when looking at the data?
 
 What is the frequency of most of the data? 
 
+How economists use this data to make policy changes?
+
 
 ## **Description of Data Sources and Data Elements**
 
+**Data Source**
+
+The data uses several files to which they are combined. 
+
+1. FEDFUNDS.csv
+2. GDP (4).csv
+3. CPIAUCSL (3).csv
+4. UNEMPLOYMENT RATE.csv
+
+**Data Size and Records**
+
+The combined size of the files is 30 kb. The combined dataframe has 277 rows combined. 
+The follwing data goes back to 1954 and ends in the year 2023. 
+
+**Data Structure**
+
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/746b9f59-91fe-4b16-8c82-6fb94e9000f5)
 
 
 
