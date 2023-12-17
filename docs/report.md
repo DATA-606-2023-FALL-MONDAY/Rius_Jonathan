@@ -49,6 +49,14 @@ Link to your YouTube video https://youtu.be/Oo_g2CpV0NM?si=nnLJqtQNIyDoQ7ek
 
 **Research Questions**
 
+What will inflation, GDP, unemployment rate and the federal interest look like in the future?
+
+Can indicators predict the other?
+
+What are some correlations between economic indicators, and what are some trends that occur when looking at the data?
+
+What is the frequency of most of the data? 
+
 
 ## **Description of Data Sources and Data Elements**
 
