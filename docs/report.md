@@ -72,14 +72,14 @@ The follwing data goes back to 1954 and ends in the year 2023.
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/b9bbe4db-99cf-44fa-9445-86973f2056d8)
 
 The data source was combined through pandas dataframe function. The data types had objects that needed to converted to 
-float and the date needed to be converrted to datatime in order data exploation to begin. 
+float and the date needed to be converted to datatime in order data exploation to begin. 
 
 ## **Results of EDA**
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/3628edbb-54e9-4010-924b-98cc88b6adfe)
 
-A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and unemployment  
-were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable. In some recessions a high interest rate 
+A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and
+unemployment were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable. In some recessions a high interest rate 
 was used to combat inflation, in others, a low interest rate was used to surge the economy. Deflation occured in two recessions but not the other. 
 
 ---
