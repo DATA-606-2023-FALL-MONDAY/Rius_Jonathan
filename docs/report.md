@@ -133,7 +133,6 @@ This model shows an increase of the interest rate over many years and this just 
 
 
 This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
-
 changes greatly to economic contacting and recession like events. 
 
 ---
