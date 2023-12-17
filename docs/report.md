@@ -90,14 +90,64 @@ which had values more concentrated between 5 and 10.
 
 
 
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/f8827dca-949e-4d51-a344-6c84a4a1904a)
 
-
-
+Not a lot of notable correlations. Since inflation rate and interest rate has the highest correlation regression analysis will be run. In reality, 
+the fed will increase interest rates when inflation is too high or low so this makes sense. GDP and inflation correlation also occurs in nature, 
+but this shows a relatively moderate one. 
 
 
 ## **Results of ML**
 
+Arima Models and Other Predictive Models
+
+ARIMA Model for Time Series Forecasting 
+
+
+ARIMA stands for autoregressive integrated moving average model and is specified by three order parameters: (p, d, q).
+
+
+Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. 
+
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/e097af5e-fb30-4427-9322-dd26223a31bc)
+
+The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into account those recessions, the forecast of the percent
+
+change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
+
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
+
+This means squared error is almost 8 and the model is somewhat unrealistic. In a nature setting the interest rate changes according the economic landscape to induce or slow down borrowing.
+
+This model shows an increase of the interest rate over many years and this just not economically feasible.
+
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/6ea2202b-9e65-4760-b51b-fa7cb1d2b644)
+
+This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
+
+changes greatly to economic contacting and recession like events. 
+
+![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
+
+To put it briefly there was a correlation between the interest rate and inflation, a model was produced. The model has R2 of .47, so the model is adequate but not strong enough for
+
+the interest rate to predict the target variable of inflation.  
+
 ## **Conclusion and Further research**
+
+Let’s split the conclusion into several categories. 
+
+Trends: Basic exploratory analysis reveals that recessions cause certain indicators to fluctuate and data going high or low is a result of outside economic forces. 
+
+Frequency: Indicators showed most data was concentrated between values zero and five, except for unemployment rate. Inflation had the shortest range and interest rate had the highest range (thats because its easier to change). 
+
+Correlations: Only one correlation (inflation vs interest rate) was above .5. In many economic situations the interest rate is used to control inflation. It was as a predictor variable for regression analysis. 
+
+Arima modeling: All models besides the gdp will unrealistic, the gdp is the only plausible scenario (if recessions occur). 
+
+Regression analysis: With interest rate as the predictor variable and the inflation as the target variable, the model’s R2 score was too low to be considered good. Therefore the interest rate does not necessarily predict inflation.
+
+Further research: 
 
 ## **References**
 
@@ -106,3 +156,9 @@ https://www.investopedia.com/articles/personal-finance/020215/top-ten-us-economi
 https://www.investopedia.com/terms/f/federalfundsrate.asp
 
 https://www.investopedia.com/terms/u/unemploymentrate.asp
+
+https://www.clevelandfed.org/center-for-inflation-research/inflation-101/why-does-the-fed-care-start
+
+https://www.investopedia.com/ask/answers/112814/why-does-inflation-increase-gdp-growth.asp#:~:text=GDP%20is%20the%20monetary%20value,demand%20and%2For%20reduced%20supply.
+
+
