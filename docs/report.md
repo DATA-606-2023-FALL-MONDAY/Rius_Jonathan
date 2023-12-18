@@ -4,7 +4,7 @@ https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/
 
 ## **Title and Author**
 
-**Project Title: Final Project: Macroeconomic Indicators and Economic Forecasting**
+**Project Title: Final Project- Macroeconomic Indicators and Economic Forecasting**
 
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
