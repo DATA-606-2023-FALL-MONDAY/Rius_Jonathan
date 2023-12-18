@@ -28,11 +28,6 @@ on the health of the economy. From here governments can take action and employ p
 do they do? They will generally increase government spending(like with unemployment insurance), lower taxes and regulations or will adjust the interest rate. 
 In short, these metrics are some of the best infomation we have in gauging the health of the economy and using policy changes to fix holes in the economy.
 
-
-
-
-
-
   
 How can one define each metric? *Inflation* (as measured in the project by CPI)  is the general price level rise of goods and services in an economy. 
 Too much inflation can mean the economy is overheating while very low inflation can be a harbinger of economic recession. What about *GDP*? GDP stands
@@ -89,6 +84,8 @@ float and the date needed to be converted to datatime in order for data exploati
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/3628edbb-54e9-4010-924b-98cc88b6adfe)
 
+<div align="justify">
+
 A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and
 unemployment were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable. In some recessions a high interest rate 
 was used to combat inflation, in others, a low interest rate was used to surge the economy. Deflation occured in two recessions but not the other. 
@@ -97,7 +94,7 @@ was used to combat inflation, in others, a low interest rate was used to surge t
 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/a2e36a68-2dd1-4909-b307-213603e8e531)
 
-
+<div align="justify">
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
 which had values more concentrated between 5 and 10. Interest rates are more variable because they can be easily manipulated in order 
 to aid the ecoonmy or to control inflation. GDP and unemployment have outliners that typically occur during recessions. 
@@ -105,6 +102,7 @@ to aid the ecoonmy or to control inflation. GDP and unemployment have outliners 
 --- 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/f8827dca-949e-4d51-a344-6c84a4a1904a)
 
+<div align="justify">
 Not a lot of notable correlations. Since inflation rate and interest rate has the highest correlation regression analysis will be run. In reality, 
 the fed will increase interest rates when inflation is too high or low so this makes sense. GDP and inflation correlation also occurs in nature, 
 but this shows a relatively moderate one. Many of economic theory suggests these correlation should be higher but the only significant one is 
@@ -129,7 +127,7 @@ regression analysis will be used to see if the interest rate (the predictor vari
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/7764815c-b359-4a1d-bd17-254a8ecff645)
 
-
+<div align="justify">
 The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into 
 account those recessions, the forecast of the percent change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
 If one were to look at the EDA section the box plot showed similar, in where, the values ranged mostly from zero to three. For the most part if one would to look
@@ -139,6 +137,7 @@ being from zero to three.
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
 
+<div align="justify">
 This means squared error is almost 8 and the model is somewhat unrealistic. In a nature setting the interest rate changes according the economic landscape to induce or slow down borrowing.
 This model shows an increase of the interest rate over many years and this just not economically feasible. Overall the interest rate is highly variable in a natural setting but very 
 fixed and only increasing here. 
@@ -148,7 +147,7 @@ fixed and only increasing here.
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/df561ccb-3295-4d42-82d2-860c44e6bbcc)
 
 
-
+<div align="justify">
 This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
 changes greatly to economic contacting and recession like events. The MSE is very high and unemployment rate, based off the box plot, flucuates between five and ten. This is continuously 
 a downward slope, not realistic. 
@@ -156,7 +155,7 @@ a downward slope, not realistic.
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
 
-
+<div align="justify">
 To put it briefly there was a correlation between the interest rate and inflation, a model was produced. The model has R2 of .47, so the model is adequate
 but not strong enough for the interest rate to predict the target variable of inflation. When thinking about in theory, the interest rate should be correlated
 as the interest rate flucuates to control inflation, especially if there is deflation or rampant inflation. Overally, and suprisingly, the interest rate does not predict
@@ -184,6 +183,7 @@ The model was okay and the correlation was only a bit above six.
 
 **Further research:**
 
+<div align="justify">
 There is a a lot to gather from the information above. There are several key points, one the models and forecase were not as strong as one would hope and the regression analysis and correlations showed very modest connections. Its 
 well known that the Fed changes interest rates to control inflation and that GDP and inflation and GDP were corelated but actual correlations of empirical data shows correlations that were not that strong and models that were not that
 robust. The exception was the GDP percent change forecast, which showed a low MSE (means squared error) and data that looked like the ranged of values present in the box plot data (values ranging from zero to three). This forecast had a low
