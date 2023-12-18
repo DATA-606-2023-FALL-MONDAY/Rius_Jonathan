@@ -121,7 +121,7 @@ ARIMA Model will be used for Time Series Forecasting
 
 
 ARIMA stands for autoregressive integrated moving average model and is specified by three order parameters: (p, d, q). Autoregressive integrated moving average (ARIMA) models predict future values based on past values. 
-ARIMA makes use of lagged moving averages to smooth time series data. They are widely used in technical analysis to forecast future security prices,statistics, and econmetrics. 
+ARIMA makes use of lagged moving averages to smooth time series data. They are widely used in technical analysis to forecast future security prices,statistics, and econometrics. 
 
 
 Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. The 
