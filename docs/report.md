@@ -176,7 +176,7 @@ Let’s split the conclusion into several categories.
 **Frequency**: Indicators showed most data was concentrated between values zero and five, except for unemployment rate (which was five to ten). Inflation had the shortest range and interest rate had the highest range 
 (thats because its easier to change). This also gives an idea of where most of the the data in the forecasting should be at. 
 
-**Correlations**: Only one correlation (inflation vs interest rate) was above .5. In many economic situations the interest rate is used to control inflation. It was as a predictor variable for regression analysis. The other correlation
+**Correlations**: Only one correlation (inflation vs interest rate) was above .5. In many economic situations the interest rate is used to control inflation. It was used as a predictor variable for regression analysis. The other correlation
 GDP and inflation was very moderate. 
 
 **Arima modeling**: All models besides the gdp will unrealistic, the gdp is the only plausible scenario (if recessions occur). If one were to look at GDP percent change one has to keep in mind that recessions will change the forecast.
