@@ -173,8 +173,8 @@ Let’s split the conclusion into several categories.
 **Trends**: Basic exploratory analysis reveals that recessions cause certain indicators to fluctuate and that the data going high or low is a result of outside economic forces. Thus effects all economic indicators. 
 
 
-**Frequency**: Indicators showed most data was concentrated between values zero and five, except for unemployment rate. Inflation had the shortest range and interest rate had the highest range (thats because its easier to change). 
-This also gives an idea of where most of the the data in the forecasting should be at. 
+**Frequency**: Indicators showed most data was concentrated between values zero and five, except for unemployment rate (which was five to ten). Inflation had the shortest range and interest rate had the highest range 
+(thats because its easier to change). This also gives an idea of where most of the the data in the forecasting should be at. 
 
 **Correlations**: Only one correlation (inflation vs interest rate) was above .5. In many economic situations the interest rate is used to control inflation. It was as a predictor variable for regression analysis. The other correlation
 GDP and inflation was very moderate. 
