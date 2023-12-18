@@ -125,7 +125,7 @@ ARIMA makes use of lagged moving averages to smooth time series data. They are w
 
 
 Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. The 
-regression analysis will be used to see if the interest rate (the predictor variable and the dependent variable) predicts inflation (the indepdendent variable and target variable). 
+regression analysis will be used to see if the interest rate (the predictor variable and the dependent variable) predicts inflation (the independent variable and target variable). 
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/7764815c-b359-4a1d-bd17-254a8ecff645)
