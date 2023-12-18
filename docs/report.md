@@ -182,22 +182,23 @@ GDP and inflation was very moderate.
 **Arima modeling**: All models besides the gdp will unrealistic, the gdp is the only plausible scenario (if recessions occur). If one were to look at GDP percent change one has to keep in mind that recessions will change the forecast.
 
 **Regression analysis**: With interest rate as the predictor variable and the inflation as the target variable, the model’s R2 score was too low to be considered good. Therefore the interest rate does not necessarily predict inflation.
-The model was okay and the correlation was only a bit above six. 
+The model was okay and the correlation was only a bit above .6. 
 
 **Further research:**
 
-There is a a lot to gather from the information above. There are several key points, one the models and forecase were not as strong as one would hope and the regression analysis and correlations showed very modest connections. Its 
-well known that the Fed changes interest rates to control inflation and that GDP and inflation and GDP were corelated but actual correlations of empirical data shows correlations that were not that strong and models that were not that
+There is a a lot to gather from the information above. There are several key points, one the models and forecast were not as strong as one would hope and the regression analysis and correlations showed very modest pearson's coefficients. Its 
+well known that the Fed changes interest rates to control inflation and that GDP, inflation and GDP were correlated but actual correlations of this empirical data shows correlations that were not that strong and models that were not that
 robust. The exception was the GDP percent change forecast, which showed a low MSE (means squared error) and data that looked like the ranged of values present in the box plot data (values ranging from zero to three). This forecast had a low
-MSE, and similar looking data to the box plot but does not flucuate in way that you were anticipate GDP to sometimes do. All this data suggests certains things. One GDP percent change usually flucuates between zero and three. Two correlations
-between certain certain indicators are not as drastic as one would be thinking. And three interest rate does not necessarily predict inflation. 
+MSE, and similar looking data to the box plot but does not flucuate in any way that you were anticipate GDP would during recessions. All this data suggests certains things. One GDP percent change usually flucuates between zero and three. Correlations
+between indicators are not as drastic as one would be thinking according versus the economic theory. And three interest rate does not necessarily predict inflation. 
 
-  In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate) 
-policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and GDP. Things adjusting governement spending and adjusting texes are a necessary step in controlling inflation, gdp,
-and the unemployment rate. For future considers one could consider putting the variables tax rate and govenment spending to see if stronger correlations for regression analysis. For the arima models perhaps including more data about the span
-of hundred years in order for the model to take into account flucuations that occurs during depression and recessions. Including the great depression of the 1930's might be good the arima models for example. As far as the forcasts a policy maker 
-might consider the GDP as decent but the others as inaccurate. In short, for the future I would consider adding the tax rate, and government spending to the data frame to seek correlations for analysis and I would add great depression era data. For 
-a policy maker I think this proves that fiscal policy is still important for affecting the economy and that only the GDP forecasts is the only good forecasts here that might hint at the future. 
+  In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate).
+Policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and good evidence for controlling unemployment and GDP. Things like adjusting governement spending and adjusting taxes are a 
+necessary step in controlling inflation, gdp,and the unemployment rate. For the future, one could consider putting the variables of tax rate and govenment spending in the data to see if stronger correlations for regression analysis exist. For the arima models
+perhaps including more data about the span of hundred years in order for the model to take into account flucuations that occurs during depression and recessions. Including the great depression of the 1930's might be good the arima models for example. 
+As far as the forcasts a policy maker might consider the GDP as decent but the others as inaccurate. In short, for the future I would consider adding the tax rate, and government spending to the data frame to seek correlations for analysis and
+also add great depression era data. For a policy maker I think this proves that fiscal policy is still important for affecting the economy and that only the GDP forecasts is the only good forecasts here that might hint at the future because of its 
+closeness to the rest of the past data. 
 
 
 
