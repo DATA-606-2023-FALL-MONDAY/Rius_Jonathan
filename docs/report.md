@@ -190,7 +190,7 @@ robust. The exception was the GDP percent change forecast, which showed a low MS
 MSE, and similar looking data to the box plot but does not flucuate in way that you were anticipate GDP to sometimes do. All this data suggests certains things. One GDP percent change usually flucuates between zero and three. Two correlations
 between certain certain indicators are not as drastic as one would be thinking. And three interest rate does not necessarily predict inflation. 
 
-In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate) 
+  In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate) 
 policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and GDP. Things adjusting governement spending and adjusting texes are a necessary step in controlling inflation, gdp,
 and the unemployment rate. For future considers one could consider putting the variables tax rate and govenment spending to see if stronger correlations for regression analysis. For the arima models perhaps including more data about the span
 of hundred years in order for the model to take into account flucuations that occurs during depression and recessions. Including the great depression of the 1930's might be good the arima models for example. As far as the forcasts a policy maker 
