@@ -184,7 +184,6 @@ The model was okay and the correlation was only a bit above six.
 
 **Further research:**
 
-<div align="justify">
 There is a a lot to gather from the information above. There are several key points, one the models and forecase were not as strong as one would hope and the regression analysis and correlations showed very modest connections. Its 
 well known that the Fed changes interest rates to control inflation and that GDP and inflation and GDP were corelated but actual correlations of empirical data shows correlations that were not that strong and models that were not that
 robust. The exception was the GDP percent change forecast, which showed a low MSE (means squared error) and data that looked like the ranged of values present in the box plot data (values ranging from zero to three). This forecast had a low
