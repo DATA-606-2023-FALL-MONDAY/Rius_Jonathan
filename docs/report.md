@@ -89,7 +89,7 @@ float and the date needed to be converted to datatime in order for data exploati
 
 A simple line graph is used to explore trends, annotations were made to explore the effect recessions had on indicators. As you can see gdp and
 unemployment were most affected by recessions. Sometimes the interest rate was effected, and inflation remained relatively stable. There were some notable deflations and 
-inflations during some the recessions. Recessions have a substantial impact on indicators. In some recessions a high interest rate 
+inflations during some of the recessions. Recessions have a substantial impact on indicators. In some recessions a high interest rate 
 was used to combat inflation, in others, a low interest rate was used to surge the economy. Deflation occured in two recessions but not the other. 
 
 ---
