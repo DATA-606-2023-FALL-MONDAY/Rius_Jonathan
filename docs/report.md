@@ -190,7 +190,7 @@ There is a a lot to gather from the information above. There are several key poi
 well known that the Fed changes interest rates to control inflation and that GDP, and inflation are correlated but the actual correlations of this empirical data shows correlations that were not that strong and models that were not that
 robust. The exception was the GDP percent change forecast, which showed a low MSE (means squared error) and data that looked like the range of values present in the box plot data (values ranging from zero to three). This forecast had a low
 MSE, and similar looking data to the box plot but does not flucuate in any way that you were anticipate GDP would during recessions. All this data suggests certains things. One GDP percent change usually flucuates between zero and three. Correlations
-between indicators are not as drastic as one would be thinking according versus the economic theory. And three interest rate does not necessarily predict inflation. 
+between indicators are not as drastic as one would be thinking versus the economic theory. And three interest rate does not necessarily predict inflation. 
 
   In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate).
 Policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and good evidence for controlling unemployment and GDP. Things like adjusting governement spending and adjusting taxes are a 
