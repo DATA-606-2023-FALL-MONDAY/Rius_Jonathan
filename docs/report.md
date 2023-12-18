@@ -69,6 +69,17 @@ The following data goes back to 1954 and ends in the year 2023.
 
 **Data Structure**
 
+| Column Name  | Description                                        | Data Type |
+|--------------|----------------------------------------------------|-----------|
+| date         | Date in year, day, and month                        | Date time  |
+|Interest Rate | Federal Interest Rate                               | float 64   |
+| Inflation    | CPI                                                 | float 64   |
+| GDP          |GDP percent change                                   | float 64   |
+| U.S Rate     | Unemployment Rate                                   | float 64   |
+
+
+
+
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/b9bbe4db-99cf-44fa-9445-86973f2056d8)
 
 The data source was combined through pandas dataframe function. The data types had objects that needed to converted to 
