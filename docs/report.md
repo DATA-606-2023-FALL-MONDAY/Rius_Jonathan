@@ -27,7 +27,12 @@ unemployment rate and federal interest rate. Why do economists put such emphasis
 on the health of the economy. From here governments can take action and employ policy changes to improve these figures so that damage is mitgated. What 
 do they do? They will generally increase government spending(like with unemployment insurance), lower taxes and regulations or will adjust the interest rate. 
 In short, these metrics are some of the best infomation we have in gauging the health of the economy and using policy changes to fix holes in the economy.
-</div>
+
+
+
+
+
+
   
 How can one define each metric? *Inflation* (as measured in the project by CPI)  is the general price level rise of goods and services in an economy. 
 Too much inflation can mean the economy is overheating while very low inflation can be a harbinger of economic recession. What about *GDP*? GDP stands
