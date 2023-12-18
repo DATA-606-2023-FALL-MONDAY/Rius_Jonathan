@@ -129,7 +129,8 @@ being from zero to three.
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
 
 This means squared error is almost 8 and the model is somewhat unrealistic. In a nature setting the interest rate changes according the economic landscape to induce or slow down borrowing.
-This model shows an increase of the interest rate over many years and this just not economically feasible.
+This model shows an increase of the interest rate over many years and this just not economically feasible. Overall the interest rate is highly variable in a natural setting but very 
+fixed and only increasing here. 
 
 ---
 
@@ -138,14 +139,17 @@ This model shows an increase of the interest rate over many years and this just 
 
 
 This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
-changes greatly to economic contacting and recession like events. 
+changes greatly to economic contacting and recession like events. The MSE is very high and unemployment rate, based off the box plot, flucuates between five and ten. This is continuously 
+a downward slope, not realistic. 
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
 
 
 To put it briefly there was a correlation between the interest rate and inflation, a model was produced. The model has R2 of .47, so the model is adequate
-but not strong enough for the interest rate to predict the target variable of inflation.  
+but not strong enough for the interest rate to predict the target variable of inflation. When thinking about in theory, the interest rate should be correlated
+as the interest rate flucuates to control inflation, especially if there is deflation or rampant inflation. Overally, and suprisingly, the interest rate does not predict
+inflation as well as first stated in the background portion. 
 
 
 ---
