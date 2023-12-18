@@ -153,7 +153,7 @@ fixed and only increasing here.
 <div align="justify">
 This has a high means squared error of 24, the model is also highly questionable, if continued past ten years the unemployment is in the negatives. This is  impossible. The unemployment rate
 changes greatly to economic contacting and recession like events. The MSE is very high and unemployment rate, based off the box plot, flucuates between five and ten. This is continuously 
-a downward slope, not realistic. 
+a downward slope, not realistic and a mathematically poor model. 
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
