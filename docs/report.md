@@ -103,7 +103,7 @@ interest rate and inflation. Surprising.
 
 ## **Results of ML**
 
-**Arima Models and Other Predictive Models will be used** 
+**Arima Models and Regression Analysis** 
 
 ARIMA Model will be used for Time Series Forecasting 
 
