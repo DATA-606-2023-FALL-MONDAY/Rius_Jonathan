@@ -159,10 +159,10 @@ a downward slope, not realistic and a mathematically poor model.
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/0c0f6712-74b9-43ad-8fad-24105287bbb8) ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/5ea767ac-2c70-43e9-9344-e55b13235eba)
 
 <div align="justify">
-To put it briefly there was a correlation between the interest rate and inflation, a model was produced. The model has R2 of .47, so the model is adequate
-but not strong enough for the interest rate to predict the target variable of inflation. When thinking about in theory, the interest rate should be correlated
+To put it briefly there was a correlation between the interest rate and inflation, and a model was produced. The model has R2 of .47, so the model is adequate
+but not strong enough for the interest rate to predict the target variable of inflation. When thinking about the theory, the interest rate should be correlated
 as the interest rate flucuates to control inflation, especially if there is deflation or rampant inflation. Overally, and suprisingly, the interest rate does not predict
-inflation as well as first stated in the background portion. 
+inflation as well as first predicted in the background portion. 
 
 
 ---
