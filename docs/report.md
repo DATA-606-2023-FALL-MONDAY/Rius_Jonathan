@@ -1,7 +1,3 @@
-https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/report.md
-
-
-
 ## **Title and Author**
 
 **Project Title: Final Project- Macroeconomic Indicators and Economic Forecasting**
