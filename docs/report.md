@@ -103,15 +103,17 @@ interest rate and inflation. Surprising.
 
 ## **Results of ML**
 
-Arima Models and Other Predictive Models
+Arima Models and Other Predictive Models will be used 
 
-ARIMA Model for Time Series Forecasting 
-
-
-ARIMA stands for autoregressive integrated moving average model and is specified by three order parameters: (p, d, q).
+ARIMA Model will be used for Time Series Forecasting 
 
 
-Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. 
+ARIMA stands for autoregressive integrated moving average model and is specified by three order parameters: (p, d, q). Autoregressive integrated moving average (ARIMA) models predict future values based on past values. 
+ARIMA makes use of lagged moving averages to smooth time series data. They are widely used in technical analysis to forecast future security prices,statistics, and econmetrics. 
+
+
+Because there is a correlation between interest rate and inflation( the Fed will often raises interest rate to slow inflation) predictive models such as linear regression, random forest, and extra tree will be used. The 
+regression analysis will be used to see if the interest rate (the predictor variable and the dependent variable) predicts inflation (the indepdendent variable and target variable). 
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/7764815c-b359-4a1d-bd17-254a8ecff645)
@@ -171,5 +173,7 @@ https://www.investopedia.com/terms/u/unemploymentrate.asp
 https://www.clevelandfed.org/center-for-inflation-research/inflation-101/why-does-the-fed-care-start
 
 https://www.investopedia.com/ask/answers/112814/why-does-inflation-increase-gdp-growth.asp#:~:text=GDP%20is%20the%20monetary%20value,demand%20and%2For%20reduced%20supply.
+
+https://www.google.com/search?q=arima+models&rlz=1C1ONGR_enUS1005US1005&oq=arima+models&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
 
 
