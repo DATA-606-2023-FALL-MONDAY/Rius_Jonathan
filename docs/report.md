@@ -173,18 +173,18 @@ The model was okay and the correlation was only a bit above six.
 
 **Further research:**
 
-    There is a a lot to gather from the information above. There are several key points, one the models and forecase were not as strong as one would hope and the regression analysis and correlations showed very modest connections. Its 
+There is a a lot to gather from the information above. There are several key points, one the models and forecase were not as strong as one would hope and the regression analysis and correlations showed very modest connections. Its 
 well known that the Fed changes interest rates to control inflation and that GDP and inflation and GDP were corelated but actual correlations of empirical data shows correlations that were not that strong and models that were not that
 robust. The exception was the GDP percent change forecast, which showed a low MSE (means squared error) and data that looked like the ranged of values present in the box plot data (values ranging from zero to three). This forecast had a low
 MSE, and similar looking data to the box plot but does not flucuate in way that you were anticipate GDP to sometimes do. All this data suggests certains things. One GDP percent change usually flucuates between zero and three. Two correlations
 between certain certain indicators are not as drastic as one would be thinking. And three interest rate does not necessarily predict inflation. 
 
-    In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate) 
-    policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and GDP. Things adjusting governement spending and adjusting texes are a necessary step in controlling inflation, gdp,
-    and the unemployment rate. For future considers one could consider putting the variables tax rate and govenment spending to see if stronger correlations for regression analysis. For the arima models perhaps including more data about the span
-    of hundred years in order for the model to take into account flucuations that occurs during depression and recessions. Including the great depression of the 1930's might be good the arima models for example. As far as the forcasts a policy maker 
-    might consider the GDP as decent but the others as inaccurate. In short, for the future I would consider adding the tax rate, and government spending to the data frame to seek correlations for analysis and I would add great depression era data. For 
-    a policy maker I think this proves that fiscal policy is still important for affecting the economy and that only the GDP forecasts is the only good forecasts here that might hint at the future. 
+In the future if I were a policy maker I would look at the relatively low correlation values and the low R2 scores of the predictive models and state that other policies to be implemented besides monteary policy (changing the interest rate) 
+policies should include fiscal policy. I think this is strong evidence that fiscal policy is needed to control inflation, and GDP. Things adjusting governement spending and adjusting texes are a necessary step in controlling inflation, gdp,
+and the unemployment rate. For future considers one could consider putting the variables tax rate and govenment spending to see if stronger correlations for regression analysis. For the arima models perhaps including more data about the span
+of hundred years in order for the model to take into account flucuations that occurs during depression and recessions. Including the great depression of the 1930's might be good the arima models for example. As far as the forcasts a policy maker 
+might consider the GDP as decent but the others as inaccurate. In short, for the future I would consider adding the tax rate, and government spending to the data frame to seek correlations for analysis and I would add great depression era data. For 
+a policy maker I think this proves that fiscal policy is still important for affecting the economy and that only the GDP forecasts is the only good forecasts here that might hint at the future. 
 
 
 
