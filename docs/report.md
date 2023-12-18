@@ -21,12 +21,14 @@ Link to your YouTube video https://youtu.be/Oo_g2CpV0NM?si=nnLJqtQNIyDoQ7ek
 
 **What are some macroeconomic metrics and why do they matter?**
 
+<div align="justify">
 There are many macroeconomic metrics but this project aims to investigate four metrics. This projects aims to investigate inflation,GDP percent change,
 unemployment rate and federal interest rate. Why do economists put such emphasis on such figures? These indicators give social scientists a good indication
 on the health of the economy. From here governments can take action and employ policy changes to improve these figures so that damage is mitgated. What 
 do they do? They will generally increase government spending(like with unemployment insurance), lower taxes and regulations or will adjust the interest rate. 
 In short, these metrics are some of the best infomation we have in gauging the health of the economy and using policy changes to fix holes in the economy.
 
+<div align="justify">
 How can one define each metric? *Inflation* (as measured in the project by CPI)  is the general price level rise of goods and services in an economy. 
 Too much inflation can mean the economy is overheating while very low inflation can be a harbinger of economic recession. What about *GDP*? GDP stands
 for gross domestic product (GDP),it  provides the overall value of the goods and services that the economy produces and indicates whether it is growing 
