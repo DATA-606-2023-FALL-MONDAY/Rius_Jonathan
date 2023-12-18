@@ -99,7 +99,8 @@ was used to combat inflation, in others, a low interest rate was used to surge t
 <div align="justify">
 Interest rate had the highest range of numbers, and inflation had the least. Values typically ranged from 0 to 5 except for unemployment 
 which had values more concentrated between 5 and 10. Interest rates are more variable because they can be easily manipulated in order 
-to aid the ecoonmy or to control inflation. GDP and unemployment have outliners that typically occur during recessions. 
+to aid the ecoonmy or to control inflation. GDP and unemployment have outliners that typically occur during recessions. Rarely are values below
+zero except during recessions. 
 
 --- 
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/f8827dca-949e-4d51-a344-6c84a4a1904a)
