@@ -47,7 +47,7 @@ What are some correlations between economic indicators, and what are some trends
 
 What is the frequency of most of the data? 
 
-How economists use this data to make policy changes?
+How can economists use this data to make policy changes?
 
 
 ## **Description of Data Sources and Data Elements**
