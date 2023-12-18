@@ -170,7 +170,7 @@ inflation as well as first predicted in the background portion.
 
 Let’s split the conclusion into several categories. 
 
-**Trends**: Basic exploratory analysis reveals that recessions cause certain indicators to fluctuate and data going high or low is a result of outside economic forces. Thus most effects the gdp percent change, unemployment and 
+**Trends**: Basic exploratory analysis reveals that recessions cause certain indicators to fluctuate and that the data going high or low is a result of outside economic forces. Thus most effects the gdp percent change, unemployment and 
 sometimes the interest rate. 
 
 **Frequency**: Indicators showed most data was concentrated between values zero and five, except for unemployment rate. Inflation had the shortest range and interest rate had the highest range (thats because its easier to change). 
