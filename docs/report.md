@@ -134,8 +134,8 @@ regression analysis will be used to see if the interest rate (the predictor vari
 The model has a means squared error of 2.22 which is pretty low and the forecast is realistic if no recessions occur. While the model does not take into 
 account those recessions, the forecast of the percent change going between 0 and 2.5 is a realistic one. This combined with a low MSE means its a decent model.
 If one were to look at the EDA section the box plot showed similar, in where, the values ranged mostly from zero to three. For the most part if one would to look
-at the graph's past values values ranged from zero to three, the box plot states something similar. The forecast also continues this trend gdp percent change values
-being from zero to three. 
+at the graph's past values values ranged from zero to three, the box plot states something similar. The forecast also continues this trend where gdp percent change values
+go from zero to three. A overall respectable model. 
 
 ---
 ![image](https://github.com/DATA-606-2023-FALL-MONDAY/Rius_Jonathan/assets/70355050/bb0eec22-e72b-4735-956f-90613ee045ac)
